@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tip Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="card">
+        <h1>Tip Calculator</h1>
+
+        <label>Bill Amount (£)</label>
+        <input id="bill" type="number" placeholder="e.g. 35" />
+
+        <label>Tip (%)</label>
+        <input id="tip" type="number" placeholder="e.g. 10" />
+
+        <button id="calcBtn">Calculate</button>
+
+        <p id="result">Enter values and calculate.</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
