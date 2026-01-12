@@ -1,6 +1,7 @@
 # Tip Calculator 💰
 ## Live Demo
-https://YOUR-LINK.netlify.app
+👉 https://tip-calculator-jack.netlify.app/
+
 
 A simple web-based tip calculator built with HTML, CSS, and JavaScript.
 
